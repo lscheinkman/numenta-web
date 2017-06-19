@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url> <loc>http://numenta.com/404/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/anomaly-detection-benchmark/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/applications/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/biological-and-machine-intelligence/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
@@ -57,16 +58,15 @@
 <url> <loc>http://numenta.com/blog/2016/12/09/visit-to-neuroscience-labs-at-mpfi-and-unc/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/blog/2017/01/17/visiting-scholar-program/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/blog/2017/03/03/htm-school/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/blog/2017/03/23/numenta-internal-hackathon/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/blog/2017/06/IEEE-special-edition-article-by-Jeff/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/blog/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/business-strategy-and-ip/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://numenta.com/careers-and-team/careers/internship-program/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://numenta.com/careers-and-team/careers/marketing-associate/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/careers-and-team/careers/research-internship/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/careers-and-team/careers/visiting-scholar-program/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/careers-and-team/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/contact/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/contact/thanks/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://numenta.com/error/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/events/2014/03/26/amazon-web-services-summit-sf/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/events/2014/05/03/nupic-spring-2014-hackathon/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/events/2014/05/05/grok-for-it-analytics-at-monitorama/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
@@ -127,11 +127,16 @@
 <url> <loc>http://numenta.com/events/2017/03/01/webinar-machine-learning-for-the-entire-business-stack/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/events/2017/03/06/neuro-inspired-computational-elements-nice-workshop-2017/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/events/2017/03/07/cornell-csv17/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://numenta.com/events/2017/04/25/earth-pixels/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/events/2017/04/29/ai-wtb/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/events/2017/05/02/ncm/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/events/2017/05/03/odsc-east/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/events/2017/06/01/icmns/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/events/2017/06/28/oreilly-nyc/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/events/2017/06/28/sensorsexpo/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/events/2017/07/06/sf-big-analytics/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/events/2017/09/28/strangeloop/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/events/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://numenta.com/htm-for-stocks/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/htm-studio/aggregation/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/htm-studio/date-time-formats/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/htm-studio/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/htm-studio/terms/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
@@ -171,8 +176,13 @@
 <url> <loc>http://numenta.com/newsletter/2016/11/10/numenta-newsletter-november-2016/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/newsletter/2016/12/19/numenta-newsletter-december-2016/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/newsletter/2017/01/26/January-2017-newsletter/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/newsletter/2017/03/29/March-2017-newsletter/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/newsletter/2017/05/23/May-2017-newsletter/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/newsletter/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/numenta-anomaly-benchmark/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/numenta-in-a-nutshell/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/numenta-in-a-nutshell/left/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/numenta-in-a-nutshell/right/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/open-source-community/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/papers-videos-and-more/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/papers-videos-and-more/resources/applications-of-hierarchical-temporal-memory/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
@@ -180,11 +190,15 @@
 <url> <loc>http://numenta.com/papers-videos-and-more/resources/cosyne-conference-2015/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/papers-videos-and-more/resources/cosyne-conference-2016/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/papers-videos-and-more/resources/cosyne-conference-2017/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/papers-videos-and-more/resources/csv17/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/papers-videos-and-more/resources/getting-started-with-numenta-technology/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/papers-videos-and-more/resources/hierarchical-temporal-memory-basics-tutorial/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/papers-videos-and-more/resources/hierarchical-temporal-memory-white-paper/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/papers-videos-and-more/resources/htm-chat-with-jeff-hawkins/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/papers-videos-and-more/resources/htm-videos-from-jeff-hawkins/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/papers-videos-and-more/resources/machine-intelligence-with-streaming-data-webinar/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/papers-videos-and-more/resources/ncm17/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/papers-videos-and-more/resources/numenta-HBS-case/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/papers-videos-and-more/resources/on-intelligence/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/papers-videos-and-more/resources/science-of-anomaly-detection/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/papers-videos-and-more/resources/sparse-distributed-representations/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
@@ -269,6 +283,9 @@
 <url> <loc>http://numenta.com/press/2016/11/14/numenta-brings-brain-theory-to-machine-learning/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/press/2016/11/18/upside-briefing-numenta/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/press/2016/11/30/how-artificial-intelligence-and-robots-will-radically-transform-the-economy/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/press/2017/03/14/here-are-50-companies-leading-the-ai-revolution/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/press/2017/04/27/numenta-hold-top-patents-in-artificial-intelligence/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/press/2017/06/20/numenta-publishes-in-neurocomputing/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/press/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/sitemap/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/spatial-pooling-algorithm/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
