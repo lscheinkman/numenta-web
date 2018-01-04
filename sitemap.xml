@@ -202,6 +202,7 @@
 <url> <loc>https://numenta.com/newsletter/2017/09/26/september-2017-newsletter/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://numenta.com/newsletter/2017/10/26/october-2017-newsletter/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://numenta.com/newsletter/2017/11/30/november-2017-newsletter/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://numenta.com/newsletter/2017/12/21/december-newsletter-2017/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://numenta.com/newsletter/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://numenta.com/numenta-anomaly-benchmark/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://numenta.com/numenta-in-a-nutshell/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
@@ -225,6 +226,8 @@
 <url> <loc>https://numenta.com/papers-videos-and-more/resources/jeff-brain-science-podcast/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://numenta.com/papers-videos-and-more/resources/jeff-hawkins-mit-talk/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://numenta.com/papers-videos-and-more/resources/machine-intelligence-with-streaming-data-webinar/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://numenta.com/papers-videos-and-more/resources/matt-taylor-odsc-west-2017/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://numenta.com/papers-videos-and-more/resources/matt-taylor-strangeloop-2017/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://numenta.com/papers-videos-and-more/resources/ncm17/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://numenta.com/papers-videos-and-more/resources/numenta-HBS-case/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://numenta.com/papers-videos-and-more/resources/on-intelligence/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
